@@ -15,10 +15,10 @@
     "antd",
     "swjtumzx"
   ],
-  "homepage": "https://github.com/swjtumzx/programForWork/tree/master/mdesign",
+  "homepage": "https://github.com/swjtumzx/mdesign.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/swjtumzx/programForWork/tree/master/mdesign"
+    "url": "https://github.com/swjtumzx/mdesign.git"
   },
   "files": [
     "dist"
